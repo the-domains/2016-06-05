@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5483871
+color:
+  saturation: 0.5322581
+  lightness: 0.6494347
+  brandStrength: 0.4175627
+  rhythmicContrast: 1
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 2016.06.05
